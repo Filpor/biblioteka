@@ -18,11 +18,11 @@ Pod Adresem: http://localhost:5000/api/v1/books/ :
 
 2. POST - Dodająca nowe pozycje do listy
 
-Pod Adresem: http://localhost:5000/api/v1/books/<id> :
+Pod Adresem: http://localhost:5000/api/v1/books/id :
 
-1. GET - Wyświetlająca wybrany element <id>
+1. GET - Wyświetlająca wybrany element id
 
-2. DELETE - Usuwająca wybraną pozycję <id> z listy
+2. DELETE - Usuwająca wybraną pozycję id z listy
 
-3. PUT - Zmieniąjąca wybrane dane w pozycji <id>
+3. PUT - Zmieniąjąca wybrane dane w pozycji id
     
