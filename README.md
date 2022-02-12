@@ -12,7 +12,7 @@ Struktura elementu json:
    
 Aplikacja posiada nastęujące metody HTTP:
 
-Pod Adresem:  :
+Pod Adresem: http://localhost:5000/api/v1/books/ :
 
 1. GET - wyświetla wszystkie zapisane książki
 
